@@ -1,2 +1,2 @@
 # projecteuler
-projecteuler.net
+https://projecteuler.net/about
