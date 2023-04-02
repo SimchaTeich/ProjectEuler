@@ -8,4 +8,4 @@ all:
 
 
 clean:
-	rm -f *.o sol
+	rm -f sol
