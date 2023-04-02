@@ -1,2 +1,2 @@
-# projecteuler
+# ProjectEuler
 https://projecteuler.net/about
