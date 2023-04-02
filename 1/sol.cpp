@@ -13,7 +13,5 @@ int main()
     }
 
     std::cout << sum << std::endl;
-
-    system("PAUSE");
     return 0;
 }
